@@ -10,9 +10,10 @@ The repository contains the source code necessary to simulate a VANET protocol w
 
 ### Key Features
 
-- Custom VANET protocol implementation in NS2.34
-- Example simulation scenarios and configurations
-- Detailed comments within the code for easier understanding and modification
+- Custom VANET protocol implementation in NS2.34.
+- **Improved Routing by Genetic Algorithm:** The routing efficiency in VANETs has been significantly enhanced by integrating a Genetic Algorithm. This optimization technique improves the routing process by selecting the most efficient paths based on a set of criteria, including but not limited to distance, speed, and traffic conditions. Genetic Algorithms allow dynamic adaptation to changing network conditions, ensuring optimal communication between vehicles.
+- Example simulation scenarios and configurations.
+- Detailed comments within the code for easier understanding and modification.
 
 ## Mini Video Tutorial
 
