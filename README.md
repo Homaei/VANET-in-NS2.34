@@ -12,6 +12,7 @@ The repository contains the source code necessary to simulate a VANET protocol w
 
 - Custom VANET protocol implementation in NS2.34.
 - **Improved Routing by Genetic Algorithm:** The routing efficiency in VANETs has been significantly enhanced by integrating a Genetic Algorithm. This optimization technique improves the routing process by selecting the most efficient paths based on a set of criteria, including but not limited to distance, speed, and traffic conditions. Genetic Algorithms allow dynamic adaptation to changing network conditions, ensuring optimal communication between vehicles.
+- **SDN-Enhanced VANET Network:** Utilizing Software-Defined Networking (SDN), we have further improved the VANET network's performance. This approach helps in reducing delay in routing, decreasing congestion, and increasing the packet delivery ratio. By decoupling the control and data planes, SDN allows for more flexible network management and optimization strategies, leading to more efficient and reliable communication in VANET scenarios.
 - Example simulation scenarios and configurations.
 - Detailed comments within the code for easier understanding and modification.
 
