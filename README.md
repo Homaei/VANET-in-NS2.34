@@ -30,7 +30,7 @@ To get started with VANET simulation in NS2.34:
 2. Ensure that NS2.34 all-in-one is properly installed on your system.
 3. Replace the necessary NS2.34 files with the modified versions from this repository.
 4. Follow the instructions in the documentation (if available) to set up your first VANET simulation scenario.
-5. Use the provided mini video tutorial as a guide for executing and visualizing the simulation.
+5. Use the provided mini video tutorial to guide executing and visualizing the simulation.
 
 ## License
 
